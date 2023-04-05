@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=BoxGetSetMethod
+comment1.params=width\ length\ depth
+comment1.target=BoxGetSetMethod(double,\ double,\ double)
+comment2.params=width
+comment2.target=void\ setWidth(double)
+comment3.params=length
+comment3.target=void\ setlength(double)
+comment4.params=depth
+comment4.target=void\ setDepth(double)
+comment5.params=
+comment5.target=double\ getWidth()
+comment6.params=
+comment6.target=double\ getlength()
+comment7.params=
+comment7.target=double\ getDepth()
+comment8.params=
+comment8.target=double\ volume()
+comment9.params=args
+comment9.target=void\ main(java.lang.String[])
+numComments=10
